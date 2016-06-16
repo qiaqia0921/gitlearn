@@ -1,1 +1,2 @@
 This is the first commit for developer
+This is the second commit for developer
